@@ -62,5 +62,5 @@ tags: 系统配置
     eclipse：        写代码都在这里了。
     sudo apt-get install gnome-panel  这家伙完美的替换了东西，太他妈喜欢了。看截图
     
-![Alt text](img/imgScreen.png)
+![Alt text](/img/imgScreen.png)
     
