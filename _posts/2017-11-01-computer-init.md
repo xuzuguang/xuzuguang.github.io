@@ -56,11 +56,11 @@ tags: 系统配置
 ## 系统版本
     ubuntu17.10 
 ## 软件配置清单
-    git
-    Visual Studio Code: 基本用他替代笔记本  vi了。
-    nixnote2：       ubuntu下的evernote的开源客户端版本，最主要的是还不占evernote的终端连接数。
-    eclipse：        写代码都在这里了。
-    sudo apt-get install gnome-panel  这家伙完美的替换了东西，太他妈喜欢了。看截图
+    . git
+    . Visual Studio Code: 基本用他替代笔记本  vi了。
+    . nixnote2：       ubuntu下的evernote的开源客户端版本，最主要的是还不占evernote的终端连接数。
+    . eclipse：        写代码都在这里了。
+    . sudo apt-get install gnome-panel  这家伙完美的替换了东西，太他妈喜欢了。看截图
     
 ![Alt text](/img/imgScreen.png)
     
