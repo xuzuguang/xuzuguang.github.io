@@ -1,1 +1,1 @@
-My Blog: http://openinx.github.io
+My Blog: http://xuzuguang.men
