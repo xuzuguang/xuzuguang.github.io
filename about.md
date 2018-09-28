@@ -11,7 +11,7 @@ permalink: /about/
 #### 联系我
 
 * [GitHub](https://github.com/xuzuguang)
-* [邮箱](xzggis@126.com)
+* [邮箱：xzggis@126.com]
 
 
 
