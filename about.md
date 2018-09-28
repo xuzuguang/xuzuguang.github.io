@@ -4,16 +4,16 @@ title: About
 permalink: /about/
 ---
 
-我叫 __OpenInx__, 这个ID的全文是Open in X，象征着探索未知的世界。我热衷探索，喜欢开源软件。我对数据库和编程语言抱有极大兴趣和热情，希望和志同道合的朋友共同成长进步。
+我叫 徐祖光, 我热衷探索，喜欢开源软件。我对数据库和编程语言抱有极大兴趣和热情，希望和志同道合的朋友共同成长进步。
 
-[我的公开分享](http://openinx.github.io/2012/01/01/my-share/)
+
 
 #### 联系我
 
-* [GitHub](https://github.com/openinx)
-* [豆瓣](http://www.douban.com/people/68306838/)
-* <a href="mailto:{{ site.email }}">邮箱</a>
-* [RSS订阅](/feed.xml)
+* [GitHub](https://github.com/xuzuguang)
+* [邮箱](xzggis@126.com)
+
+
 
 #### 友情链接(排名不分先后)
 
