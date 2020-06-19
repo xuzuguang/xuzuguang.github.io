@@ -1,8 +1,8 @@
 ---
 
 layout: post
-title:  "LeetCode之哈希表"
-date:   2018-04-10
+title:  "LeetCode学习之哈希表"
+date:   2018-05-1
 categories: 算法学习  
 tags: 算法学习
 ---
@@ -69,7 +69,7 @@ int numberOfBoomerangs(vector<vector<int>>& points) {
 
  
 
-![American keyboard](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/keyboard.png)
+<img src="D:\JGYData\Typora\images\keyboard.png" alt="American keyboard" style="zoom:50%;" />
 
  
 

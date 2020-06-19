@@ -42,7 +42,7 @@ def  backtrack(路径 ， 选择列表):
 
 > 其核心就是for循环里边的递归，再递归调用之后撤销 选择，特别简单。
 
-# LeetCode 5-4
+# LeetCode： 5-4
 
 #### [401. 二进制手表](https://leetcode-cn.com/problems/binary-watch/)
 
@@ -50,7 +50,7 @@ def  backtrack(路径 ， 选择列表):
 
 每个 LED 代表一个 0 或 1，最低位在右侧。
 
-![img](https://upload.wikimedia.org/wikipedia/commons/8/8b/Binary_clock_samui_moon.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Binary_clock_samui_moon.jpg" alt="img" style="zoom:50%;" />
 
 例如，上面的二进制手表读取 “3:25”。
 
@@ -466,7 +466,7 @@ public:
 };
 ```
 
-# LeetCode 5-6
+# LeetCode： 5-6
 
 #### [60. 第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)
 
@@ -650,8 +650,6 @@ public:
 };
 ```
 
-#### 
-
 #### [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)
 
 给定一个二维网格和一个单词，找出该单词是否存在于网格中。
@@ -777,7 +775,7 @@ public:
 };
 ```
 
-# LeetCode 5-7
+# LeetCode： 5-7
 
 #### [93. 复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)
 
@@ -836,7 +834,7 @@ public:
 };
 ```
 
-# LeetCode 5-8
+# LeetCode： 5-8
 
 #### [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)
 
@@ -1136,7 +1134,7 @@ bool isAdditiveNumber(string num) {
 }
 ```
 
-# LeetCode 5-9
+# LeetCode： 5-9
 
 #### [1079. 活字印刷](https://leetcode-cn.com/problems/letter-tile-possibilities/)
 
@@ -1193,7 +1191,9 @@ int numTilePossibilities(string tiles) {
 }
 ```
 
- # LeetCode 5-11
+
+
+ # LeetCode： 5-11
 
 #### [1239. 串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
 
