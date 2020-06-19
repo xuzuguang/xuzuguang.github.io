@@ -50,7 +50,7 @@ def  backtrack(路径 ， 选择列表):
 
 每个 LED 代表一个 0 或 1，最低位在右侧。
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Binary_clock_samui_moon.jpg" alt="img" style="zoom:50%;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Binary_clock_samui_moon.jpg" alt="img" style="zoom:25%;" />
 
 例如，上面的二进制手表读取 “3:25”。
 
@@ -1191,9 +1191,7 @@ int numTilePossibilities(string tiles) {
 }
 ```
 
-
-
- # LeetCode： 5-11
+# LeetCode： 5-11
 
 #### [1239. 串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
 
