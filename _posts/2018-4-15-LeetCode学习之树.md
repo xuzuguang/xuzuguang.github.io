@@ -1,3 +1,18 @@
+---
+layout: post
+title:  "LeetCode学习之树"
+date:   2018-04-15
+categories: 算法学习  
+tags: 算法学习
+
+---
+
+* content
+{:toc}
+
+
+本文为LeetCode中关于树的题目学习
+
 #### [1367. 二叉树中的列表](https://leetcode-cn.com/problems/linked-list-in-binary-tree/)
 
 难度中等33
@@ -271,4 +286,3 @@ TreeNode* DFS(vector<int>& preorder , int& pos , vector<int>& inorder , int left
 }
 ```
 
-#### 
