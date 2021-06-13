@@ -12,7 +12,6 @@ permalink: /about/
 
 #### 联系我
 * [邮箱:    *xzggis@126.com*]
-* [qq:  *3440447550*]
 
 
 
